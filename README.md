@@ -12,6 +12,8 @@
 
 __Please open how-to-run.md to look steps to run the experiments on google colab.__
 
-It's recommended to start with this [Medium blog post]([https://medium.com/@yogesh.grjr4/naive-bayes-classification-7a0b27201481](https://medium.com/@yogesh.grjr4/wild-animal-image-classifier-78037713f593))
+It's recommended to start with this [Medium blog post](https://medium.com/@yogesh.grjr4/wild-animal-image-classifier-78037713f593)
+
+You can acccess [__Project video__](https://www.youtube.com/watch?v=JztsuLuHHTs) here.
 
 
