@@ -1,0 +1,6 @@
+1. Download Model.ipynb file and open in Google colab.
+2. Change runtime to GPU.
+3. Upload your kaggle.json(kaggle credential file) to colab.
+4. Run the notebook.
+5. In colab code will generate urls.txt file.
+6. Open urls.txt and use urls to access mlflow and streamlit app.
